@@ -23,7 +23,7 @@
 
 ### 🌱 Looking forward to:
 - Research-oriented projects  
-- Collaborative learning and open-source contributions  
+- Collaborative learning
 - Growing as a problem solver in **AI & Data Science**
 
 ---
