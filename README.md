@@ -1,6 +1,6 @@
 ## Hello 👋, I’m Poojitha
 
-🎓 **B.Tech in Computer Science & Engineering**  
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
 📍 **IIIT Raichur** | Expected Graduation: **2027**
 
 💡 I’m a **Machine Learning enthusiast** who enjoys turning ideas into real-world, impact-driven solutions. I love building systems and integrating models into clean, functional web applications.
